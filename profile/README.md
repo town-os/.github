@@ -1,3 +1,5 @@
+![Town OS](https://raw.githubusercontent.com/town-os/media-kit/main/banner.png)
+
 # Town OS
 
 ## Your Cloud in Your Closet, easy enough for anyone.
