@@ -1,4 +1,4 @@
-![Town OS](https://raw.githubusercontent.com/town-os/media-kit/main/banner.png)
+![Town OS](banner.png)
 
 # Town OS
 
